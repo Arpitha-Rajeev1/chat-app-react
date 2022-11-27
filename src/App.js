@@ -10,8 +10,8 @@ import Login from './components/Login';
 import CircularProgress from '@mui/material/CircularProgress';
 import {
   BrowserRouter,
-  Routes,
   Route,
+  Routes,
 } from "react-router-dom";
 
 function App() {
